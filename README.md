@@ -37,7 +37,7 @@ General description of super-resolution in: [Couture et al., _Ultrasound localiz
 
 
 ## Related Dataset
-_In-vivo rat 14_ dataset is available in <em>Zenodo</em>. Patients imaging data are not available due to ethical, medical and legislative considerations towards personal information. 
+_In-vivo rat 14_ dataset is available in <em>Zenodo</em> (10.5281/zenodo.6811910). Patients imaging data are not available due to ethical, medical and legislative considerations towards personal information. 
 
 ## Folder's organization
 * `/Example script`
