@@ -10,7 +10,7 @@
 <b>Version 1.0, 15.01.2023</b>
 </p>
 
-Repository to share scripts and functions for "_Sensing Ultrasound Localization Microscopy reveals glomeruli in rats and humans_" article, and <em>Akebia</em> software. All functions are usable with agreement from their owner.
+Repository to share scripts and functions for "_Sensing Ultrasound Localization Microscopy for the visualization of glomeruli in rats and humans_" article, and <em>Akebia</em> software. All functions are usable with agreement from their owner.
 
 ## Authors : Louise Denis, Jacques Battaglia. CNRS, Sorbonne Université, INSERM 
 Directed by: Olivier Couture, Research Director CNRS, Sorbonne Université, INSERM.
@@ -29,7 +29,7 @@ Partly funded by the European Research Council under the European Union Horizon 
 * Materials, collaborations, rights and others: [Olivier Couture](mailto:olivier.couture@sorbonne-universite.fr)
 
 ## Academic references to be cited
-Details of the code in the article by Denis, Bodard, Hingot, Chavignon, Battaglia, Renault, Lager, Aissani, Hélénon, Correas, and Couture. _Sensing Ultrasound Localization Microscopy reveals glomeruli in living rats and humans_, In prep, 2023. 
+Details of the code in the article by Denis, Bodard, Hingot, Chavignon, Battaglia, Renault, Lager, Aissani, Hélénon, Correas, and Couture. _Sensing Ultrasound Localization Microscopy reveals glomeruli in living rats and humans_, eBioMedicine, 2023. 
 
 Inspired from <em>PALA</em> / <em>Lotus</em>: Heiles, Chavignon et al., [_Performance benchmarking of microbubble-localization algorithms for ultrasound localization microscopy_, Nature Biomedical Engineering, 2022 (10.1038/s41551-021-00824-8)](https://www.nature.com/articles/s41551-021-00824-8)
 
