@@ -36,14 +36,14 @@ Inspired from <em>PALA</em> / <em>Lotus</em>: Heiles, Chavignon et al., [_Perfor
 General description of super-resolution in: [Couture et al., _Ultrasound localization microscopy and super-resolution: A state of the art_, IEEE UFFC 2018.](https://doi.org/10.1109/TUFFC.2018.2850811)
 
 ## Related Dataset
-_In-vivo rat 14_ dataset is available in <em>Zenodo</em>. Patients imaging data are not available due to ethical, medical and legislative considerations towards personal information. 
+_In-vivo rat 14_ dataset is available in <em>Zenodo</em> (10.5281/zenodo.6811910). Patients imaging data are not available due to ethical, medical and legislative considerations towards personal information. 
 
 ## 1. Data selection
 As detailed in the article, sULM has been used to highlight glomeruli in rats and in humans. Patients imaging data are not available due to ethical, medical and legislative considerations toward personal information. 
 
 Nevertheless, you can choose in the <em>Akebia</em> software (details in `User Guide`) if you work with interpolated data (clinical ultrasound scanner, i.e. humans' data here) or with non-interpolated data (research ultrasound scanner, such as Verasonics, i.e. rats' data here). In general, if your beamformed pixel is bigger than $\frac{\lambda}{2}$, consider your data as non-interpolated.
 
-Please name your data as explained in <em>Zenodo</em> :
+Please name your data as explained in the <em>Akebia User Guide</em> :
 
 * For interpolated data, i.e. humans’ data, your variable inside `xx.mat` must be called `bubbles`, with `xx` the number of the block.
 
