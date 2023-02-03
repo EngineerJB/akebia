@@ -29,7 +29,7 @@ Partly funded by the European Research Council under the European Union Horizon 
 * Materials, collaborations, rights and others: [Olivier Couture](mailto:olivier.couture@sorbonne-universite.fr)
 
 ## Academic references to be cited
-Details of the code in the article by Denis, Bodard, Hingot, Chavignon, Battaglia, Renault, Lager, Aissani, Hélénon, Correas, and Couture. _Sensing Ultrasound Localization Microscopy reveals glomeruli in living rats and humans_, eBioMedicine, 2023. 
+Details of the code in the article by Denis, Bodard, Hingot, Chavignon, Battaglia, Renault, Lager, Aissani, Hélénon, Correas, and Couture. _Sensing Ultrasound Localization Microscopy for the visualization of glomeruli in living rats and humans_, eBioMedicine, 2023. 
 
 Inspired from <em>PALA</em> / <em>Lotus</em>: Heiles, Chavignon et al., [_Performance benchmarking of microbubble-localization algorithms for ultrasound localization microscopy_, Nature Biomedical Engineering, 2022 (10.1038/s41551-021-00824-8)](https://www.nature.com/articles/s41551-021-00824-8)
 
