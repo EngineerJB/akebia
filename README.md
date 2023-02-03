@@ -10,7 +10,7 @@
 <b>Version 1.0, 15.01.2023</b>
 </p>
 
-Repository to share scripts and functions for "_Sensing Ultrasound Localization Microscopy for the visualization of glomeruli in rats and humans_" article, and <em>Akebia</em> software. All functions are usable with agreement from their owner.
+Repository to share scripts and functions for "_Sensing Ultrasound Localization Microscopy for the visualization of glomeruli in living rats and humans_" article, and <em>Akebia</em> software. All functions are usable with agreement from their owner.
 
 ## Authors : Louise Denis, Jacques Battaglia. CNRS, Sorbonne Université, INSERM 
 Directed by: Olivier Couture, Research Director CNRS, Sorbonne Université, INSERM.
