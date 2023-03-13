@@ -56,7 +56,7 @@ As detailed in the article, sULM has been used to highlight glomeruli in rats an
 
 Nevertheless, you can choose in the `Akebia_example_script.m` (detailed below) if you work with interpolated data (clinical ultrasound scanner, i.e. humans' data here) or with non-interpolated data (research ultrasound scanner, such as Verasonics, i.e. rats' data here). In general, if your beamformed pixel is bigger than $\frac{\lambda}{2}$, consider your data as non-interpolated. 
 
-Please name your data as explained in the `README` of <em>Zenodo</em> (10.5281/zenodo.6811910):
+Please name your data as explained in the `README` of [<em>Zenodo</em> (10.5281/zenodo.6811910)](https://zenodo.org/record/6811910#.ZA9dV3bMLid):
 
 * For interpolated data, i.e. humans’ data, your file inside `xx.mat` must be called `bubbles`, with `xx` the number of the block.
 
